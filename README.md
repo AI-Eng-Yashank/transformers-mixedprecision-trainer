@@ -20,6 +20,6 @@ It uses a dataset from the Hugging Face Hub and includes:
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/seq2seq-finetune.git
+git clone https://github.com/AI-Eng-Yashank/transformers-mixedprecision-trainer.git
 cd seq2seq-finetune
 pip install -r requirements.txt
